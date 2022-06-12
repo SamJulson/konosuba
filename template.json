@@ -1,0 +1,28 @@
+{
+    "Actor": {
+        "types": ["PC", "NPC"],
+        "templates": {
+            "description": {
+                "character_name": "",
+                "player_name": "",
+                "age": 18,
+                "gender": 1,
+                "used_exp": 0
+            },
+            "resources": {
+                "hp": {
+                    "min": 0,
+                    "value": 10
+                },
+                "mp": {
+                    "min": 0,
+                    "value": 10
+                },
+                "blessings": {
+                    "min": 0,
+                    "value": 0
+                }
+            }
+        }
+    }
+}

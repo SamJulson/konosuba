@@ -1,0 +1,28 @@
+{
+    "name": "konosuba",
+    "title": "Konosuba TRPG",
+    "description": "The Konosuba TRPG made by F.E.A.R",
+    "version": "0.0.1",
+    "templateVersion": 2,
+    "author": "Petrichoral",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "packs": [],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "socket": false,
+    "initiative": "1d6",
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "resources.hp",
+    "secondaryTokenAttribute": "resources.mp",
+    "url": "https://github.com/SamJulson/konosuba/",
+    "manifest": "https://github.com/SamJulson/konosuba/raw/master/system.json",
+    "download": "https://github.com/SamJulson/konosuba/archive/refs/heads/master.zip"
+}
