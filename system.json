@@ -23,6 +23,6 @@
     "primaryTokenAttribute": "resources.hp",
     "secondaryTokenAttribute": "resources.mp",
     "url": "https://github.com/SamJulson/konosuba/",
-    "manifest": "https://github.com/SamJulson/konosuba/raw/master/system.json",
-    "download": "https://github.com/SamJulson/konosuba/archive/refs/heads/master.zip"
+    "manifest": "https://github.com/SamJulson/konosuba/releases/download/latest/system.json",
+    "download": "https://github.com/SamJulson/konosuba/releases/download/latest/konosuba.zip"
 }
